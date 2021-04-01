@@ -1,0 +1,8 @@
+---
+Title: "Learning to rebase"
+Author: "Raunak Bhivpathaki"
+Date information: "`r Sys.Date()" 
+output: 
+        bookdown::html_document2
+keep_md: true
+---
